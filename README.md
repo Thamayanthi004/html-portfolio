@@ -1,2 +1,2 @@
 # html-online resume
-Portfolio using HTML and CSS
+Online resume- using HTML and CSS
